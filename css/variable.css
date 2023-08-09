@@ -1,0 +1,8 @@
+:root {
+    --yellow: #fee100;
+    --horizontal-space: 25px;
+    --border-solid: 1px solid rgba(0, 0, 0, 0.2);
+    --gray-color: rgba(0, 0, 0, 0.5);
+    --white-color: rgba(255, 255, 255, 0.8);
+    --um-color: rgba(0, 0, 0, 0.3);
+}
